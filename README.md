@@ -8,14 +8,11 @@
 </p>
 
 ---
-I make software, music, and a living following my curiosity. Trained as an aerospace engineer, defected into code. Now I solve hard problems with great people and occasionally set stuff on fire with lasers. 
+I make software, music, and a living following my curiosity. I'm a polymath to my core. Trained as an aerospace engineer, defected into code. Now I solve hard problems with great people and occasionally set stuff on fire with lasers. 
 
-Polymath. Force multiplier. Send interesting problems.
+Send interesting problems.
 
 ---
-
-- 📫 Reach me on [X](https://x.com/__jkrush__) or [email](mailto:jkreish@gmail.com)  
-- 😄 Pronouns: He/Him  
 
 
 <!-- ### Tech Stack
